@@ -5,7 +5,7 @@ Made by phaf36s (phafael_) on Reddit.
 
 You may share this anywhere you want.
 
-![Screenshot](/ArkXP/Windows_XP-esque_logo_white.png)
+![Screenshot](/ArkXP/Windows_XP-esque_logo_white_w_black_bg_1000px.png)
 
 ## Installation
 Make sure ArkOS is updated to the latest version!
