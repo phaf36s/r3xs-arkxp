@@ -7,7 +7,7 @@ You may share this anywhere you want.
 
 ![Screenshot](/ArkXP/Windows_XP-esque_logo_white_w_black_bg_1000px.png)
 
-# UPDATE: New versions with colored squares representing the R3XS's face buttons. 
+## UPDATE: New versions with colored squares representing the R3XS's face buttons. 
 There are two versions: labeled, with gray squares and colored ABXY buttons, and colored, with the squares following the same color pattern as the console's buttons.
 
 ![Screenshot](/ArkXP/Windows_XP-esque_logo_white_w_colored_buttons_+_black_bg_1000px.png)
