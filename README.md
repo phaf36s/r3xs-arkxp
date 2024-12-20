@@ -13,7 +13,7 @@ There are two versions: labeled, with gray squares and colored ABXY buttons, and
 ![Screenshot](/ArkXP/Windows_XP-esque_logo_white_w_labeled_buttons_+_black_bg_1000px.png)
 
 # Installation
-**OPTIONAL: An old PC post screen with three different variations depending on your SD card setup is also available [here](https://www.reddit.com/r/R36S/comments/1gcs774/boot_logo_and_loading_screen_mega_pack_400_images/). Shoutout to u/\_manster\_ for making these!**
+**OPTIONAL: An old PC BIOS screen with three different variations depending on your SD card setup is also available [here](https://www.reddit.com/r/R36S/comments/1gcs774/boot_logo_and_loading_screen_mega_pack_400_images/). Shoutout to u/\_manster\_ for making these!**
 
 **Attention: The theme may change the OS build version data on Emulation Station's main menu. To fix this, you will have to adjust the "title=ArkOS 2.0 (VERSION NUMBER)(AeUX)" line on the .plymouth file to match your current version.**
 
